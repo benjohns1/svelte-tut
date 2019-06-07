@@ -1,5 +1,7 @@
 # Svelte Tutorial
 
+From Academind's youtube tutorial: [Svelte - Quickstart & Thorough Introduction Tutorial](https://www.youtube.com/watch?v=LIfIRdRlD58)
+
 ## Get started
 
 Install the dependencies...
